@@ -13,6 +13,13 @@ Nothing plaintext ever belongs in this repo. The local sources of truth
 (`data.js`, `data-<slug>.js`) live only on the machines that edit them, gitignored,
 never pushed anywhere, including here.
 
+This repo is public, deliberately, not an oversight. GitHub Pages on a private repo
+needs a paid plan (Pro or above); everything here is either AES-256-GCM ciphertext
+or a non-sensitive manifest, so repo visibility carries no confidentiality weight,
+the passphrase is what actually protects the family data, same as it always was.
+Public visibility does not affect write access: only someone holding the
+fine-grained publish token can push here.
+
 Served via GitHub Pages at `https://cjwilduk.github.io/family-data/`. The app in
 `echelon9-website` fetches these files cross-origin and writes new versions back
 via the GitHub Contents API when someone publishes an edit.
