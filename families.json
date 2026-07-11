@@ -18,5 +18,21 @@
   {
     "slug": "walton",
     "name": "Walton"
+  },
+  {
+    "slug": "mosley",
+    "name": "Mosley"
+  },
+  {
+    "slug": "heeley",
+    "name": "Heeley"
+  },
+  {
+    "slug": "heeleytest",
+    "name": "HeeleyTest"
+  },
+  {
+    "slug": "winter",
+    "name": "winter"
   }
 ]
