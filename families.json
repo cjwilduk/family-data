@@ -28,23 +28,11 @@
     "name": "Heeley"
   },
   {
-    "slug": "heeleytest",
-    "name": "HeeleyTest"
+    "slug": "summer",
+    "name": "Summer"
   },
   {
     "slug": "winter",
-    "name": "winter"
-  },
-  {
-    "slug": "wiztest",
-    "name": "wiztest"
-  },
-  {
-    "slug": "wiztest2",
-    "name": "wiztest2"
-  },
-  {
-    "slug": "wiztest3",
-    "name": "wiztest3"
+    "name": "Winter"
   }
 ]

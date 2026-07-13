@@ -1,0 +1,14 @@
+{
+  "slug": "wiztest",
+  "name": "wiztest",
+  "deletedAt": "2026-07-12T01:49:40.225Z",
+  "deletedBy": "cjwild.uk@gmail.com",
+  "roles": [
+    {
+      "email": "cjwild.uk@gmail.com",
+      "name": "Cj Wild",
+      "role": "super"
+    }
+  ],
+  "bundle": "data-wiztest.enc"
+}

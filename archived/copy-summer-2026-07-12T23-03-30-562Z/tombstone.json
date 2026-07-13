@@ -1,0 +1,14 @@
+{
+  "slug": "copy-summer",
+  "name": "copy--Summer",
+  "deletedAt": "2026-07-12T23:03:31.867Z",
+  "deletedBy": "cjwild.uk@gmail.com",
+  "roles": [
+    {
+      "email": "cjwild.uk@gmail.com",
+      "name": "Cj Wild",
+      "role": "super"
+    }
+  ],
+  "bundle": "data-copy-summer.enc"
+}
