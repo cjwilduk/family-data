@@ -38,5 +38,9 @@
   {
     "slug": "test",
     "name": "test"
+  },
+  {
+    "slug": "throwaway",
+    "name": "throwaway"
   }
 ]
