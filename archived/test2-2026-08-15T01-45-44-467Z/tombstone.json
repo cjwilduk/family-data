@@ -1,0 +1,10 @@
+{
+  "slug": "test2",
+  "name": "test",
+  "deletedAt": "2026-08-15T01:45:44.774Z",
+  "roleCount": 1,
+  "roles": [],
+  "bundle": "data-test2.enc",
+  "empty": false,
+  "media": []
+}
