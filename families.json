@@ -42,5 +42,9 @@
   {
     "slug": "throwaway",
     "name": "throwaway"
+  },
+  {
+    "slug": "testmedia",
+    "name": "testmedia"
   }
 ]
