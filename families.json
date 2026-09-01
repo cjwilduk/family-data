@@ -50,5 +50,9 @@
   {
     "slug": "phase2test",
     "name": "phase2test"
+  },
+  {
+    "slug": "testphase2",
+    "name": "testphase2"
   }
 ]
